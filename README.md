@@ -15,7 +15,7 @@ Common Arduino Library requirements:
 
 ## ESP32-Beats.ino
   
-Written specifically for ESP32 with Bluetooth (BLE) MIDI connection. Requires the Arduino MIDI & BLE-MIDI libraries, which makes this version run a lot smoother due to callbacks etc.
+Written specifically for ESP32 (only tested on DOIT ESP32 Devkit V1 board) with Bluetooth (BLE) MIDI connection. Requires the Arduino MIDI & BLE-MIDI libraries, which makes this version run a lot smoother due to callbacks etc.
 The "Boot" button is mapped to toggle between Beats/SMPTE.
 
 ## SAMD-Beats.ino
