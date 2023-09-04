@@ -6,11 +6,11 @@ Mackie Control Universal (MCU) Time Display on Neopixel Matrix
 Common Arduino Library requirements:
 - Adafruit GFX
 - Adafruit NeoMatrix
-- Adafruit ZeroDMA
 
 ## ESP32-Beats.ino
   
 Written specifically for ESP32 with Bluetooth (BLE) MIDI connection. Requires the Arduino MIDI & BLE-MIDI libraries, which makes this version run a lot smoother due to callbacks etc.
+The "Boot" button is mapped to toggle between Beats/SMPTE.
 
 ## SAMD-Beats.ino
   
