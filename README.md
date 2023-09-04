@@ -1,11 +1,13 @@
 # Big-Time-Display
-Mackie Control Universal (MCU) Time Display on Neopixel Matrix
+Initially based on Arduino code by @i2make ([https://github.com/i2make/MTC_SPP_Reader](https://github.com/i2make/MTC_SPP_Reader)).
 
-#### I created 3 different highly customized versions of the same Arduino code. All 3 versions basically does the same thing on different specs and MIDI connections.
+Mackie Control Universal (MCU) Time Display on Neopixels RGB Matrix display
+
+#### I created 3 different versions of the same Arduino code. All 3 versions basically does the same thing, but is customized to run on different commonly used boards with different MIDI connections etc.
 
 Common Arduino Library requirements:
-- Adafruit GFX
-- Adafruit NeoMatrix
+- [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
+- [Adafruit NeoMatrix](https://github.com/adafruit/Adafruit_NeoMatrix)
 
 ## ESP32-Beats.ino
   
