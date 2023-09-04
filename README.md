@@ -20,5 +20,7 @@ For SAMD-based boards with an onboard push button and USB connection for MIDI. R
 
 ## TrinketM0-Beats.ino
   
-Highly customized for the super tiny Adafruit Trinket M0 board with integrated Dotstar(tm). Uses the Arduino USB Stack and USB Midi Connection, utilizing the MIDI-USB library. Preconfigured with 2 separate MIDI ports, which makes it possible to send/receive MIDI even when port 1 is unavailable (when used as a control surface in the DAW, you can't use the port for anything else).
+Highly customized for the super tiny [Adafruit Trinket M0 board](https://www.adafruit.com/product/3500) with integrated Dotstar™. Uses the Arduino USB Stack and USB Midi Connection, utilizing the [MIDI-USB library](https://www.arduino.cc/reference/en/libraries/usb-midi/). Preconfigured with 2 separate MIDI ports/instances, which makes it possible to send/receive MIDI even when port 1 is unavailable[^1]
+
+[^1]: When used as a control surface in the DAW, most DAWs hijacks the first available MIDI port provided by the device.
 
