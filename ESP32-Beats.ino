@@ -1,3 +1,5 @@
+// BOARD: DOIT ESP32 DEVKIT V1
+
 #include <BLEMIDI_Transport.h>
 #include <Arduino.h>
 #include "Colors.h"
