@@ -1,5 +1,5 @@
 # Big Time Display
-Initially based on Arduino code by [i2make](https://github.com/i2make/MTC_SPP_Reader).
+Initially inspired from & based on Arduino code by [i2make](https://github.com/i2make/MTC_SPP_Reader).
 
 ## Mackie Control Universal (MCU) Beats/SMPTE Display on Neopixels RGB Matrix
 
