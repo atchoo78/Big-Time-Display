@@ -3,11 +3,15 @@ Initially inspired from & based on Arduino code by [i2make](https://github.com/i
 
 ## Mackie Control Universal (MCU) Beats/SMPTE Display on Neopixels RGB Matrix
 
+![IMG_0450](https://github.com/atchoo78/Big-Time-Display/assets/20549049/c4cc1a18-8535-43ae-b1c1-123437c7ca66)
+
 #### I created 3 different versions of the same Arduino base code. All 3 versions basically does the same thing, but is customized to run on different commonly used boards with different MIDI connections etc.
 
 Common Arduino Library requirements:
 - [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library)
 - [Adafruit NeoMatrix](https://github.com/adafruit/Adafruit_NeoMatrix)
+
+![IMG_0470](https://github.com/atchoo78/Big-Time-Display/assets/20549049/4b76f492-ce6f-45a3-8fd3-0c368c4b81d2)
 
 ## ESP32-Beats.ino
   
