@@ -1,7 +1,7 @@
 # Big-Time-Display
 Initially based on Arduino code by [i2make](https://github.com/i2make/MTC_SPP_Reader).
 
-Mackie Control Universal (MCU) Time Display on Neopixels RGB Matrix display
+## Mackie Control Universal (MCU) Time Display on Neopixels RGB Matrix display
 
 #### I created 3 different versions of the same Arduino base code. All 3 versions basically does the same thing, but is customized to run on different commonly used boards with different MIDI connections etc.
 
